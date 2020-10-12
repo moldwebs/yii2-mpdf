@@ -13,7 +13,7 @@
     ],
     "homepage": "https://github.com/moldwebs/yii2-mpdf",
     "type": "yii2-extension",
-    "license": "BSD",
+    "license": "Aladdin",
     "minimum-stability": "dev",
     "authors": [
         {
