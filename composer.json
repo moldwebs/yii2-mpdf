@@ -13,6 +13,7 @@
     "homepage": "https://github.com/moldwebs/yii2-mpdf",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "moldwebs",
