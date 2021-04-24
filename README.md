@@ -1,3 +1,1 @@
-# yii2-mpdf
-
-NOT REMOVE (PACKAGE)
+# DON'T REMOVE (PACKAGE)
